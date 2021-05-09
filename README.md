@@ -1,4 +1,8 @@
-# works
+# AIDM 7410 Computational Journalism
+## Group Project
+### Topic: 
+#### Galaxy of Directors and Actors: The gorgeousness, fade and reconstruction of HK movies’ past 10 years
+
 **Topic and issue <br/>**
 
 The project aims to dig out the hidden factors and networks in the Hong Kong film industry by analysing the data of the Hong Kong Film Awards in the past 10 years..
