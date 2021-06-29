@@ -5,7 +5,7 @@
 
 **Topic and issue <br/>**
 
-The project aims to dig out the hidden factors and networks in the Hong Kong film industry by analysing the data of the Hong Kong Film Awards in the past 10 years..
+The project aims to dig out the hidden factors and networks in the Hong Kong film industry by analysing the data of the Hong Kong Film Awards in the past 10 years.
 
 **Dataset <br/>**
 
